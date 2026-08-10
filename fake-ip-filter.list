@@ -20,11 +20,18 @@
 +.gateway.com
 +.drmartens.co.kr
 +.cloudflare-dns.com
++.google-analytics.com
 +.www.gstatic.com
 +.captive.apple.com
 +.connectivitycheck.gstatic.com
 +.cp.cloudflare.com
 +.openai.com
++.help.openai.com
++.platform.openai.com
++.help.openai.com
++.auth.openai.com
++.oaistatic.com
++.sonata.openai.com
 +.visa.cn
 +.visa.com
 +.x.com
@@ -53,7 +60,6 @@
 +.kickstarter.com
 +.bbs.alipansou.com
 +.store.epicgames.com
-+.help.openai.com
 +.egov.uscis.gov
 +.www.wto.org
 +.dynadot.com
